@@ -20,4 +20,4 @@ These optional features can be enabled:
 - `rocket`: ability to parse WireGuard keys from HTTP requests in Rocket.
 - `schema`: ability to generate JSON schemas from the types.
 
-[rustdoc]: https://fractalnetworks.gitlab.io/wireguard-keys/doc/wireguard_keys
+[rustdoc]: https://docs.rs/wireguard-keys
